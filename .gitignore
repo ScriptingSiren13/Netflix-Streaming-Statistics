@@ -1,0 +1,30 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+anaconda_projects/
+
+# Streamlit cache
+.streamlit/
+
+# Local environment files
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Large datasets 
+data/*.csv
+!data/netflix_titles.csv  # allow main dataset
