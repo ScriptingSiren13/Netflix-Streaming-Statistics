@@ -188,6 +188,7 @@ Feel free to open issues or submit pull requests.
 
 ##  Connect With Me
 
+<p align="center">Made with passion, data, and Netflix vibes by Zarnain</p>
 <p align="center">
   <a href="www.linkedin.com/in/zarnain-723a31325">
     <img src="https://img.shields.io/badge/LinkedIn-Zarnain-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -196,17 +197,6 @@ Feel free to open issues or submit pull requests.
     <img src="https://img.shields.io/badge/GitHub-ScriptingSiren13-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
-
----
-
-<p align="center">Made with passion, data, and Netflix vibes by Zarnain</p>
-```
 
 ---
 
