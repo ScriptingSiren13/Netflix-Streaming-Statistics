@@ -96,23 +96,35 @@ streaming-statistics/
 ```
 ---
 
-##  Installation
+## Installation
 
+Follow these steps to set up the project on your machine:
+
+### 1 Clone the repository
 ```bash
 git clone https://github.com/ScriptingSiren13/streaming-statistics.git
 cd streaming-statistics
+
+2 Install dependencies
 pip install -r requirements.txt
 
 
----
+Usage
+After installation, launch the Streamlit dashboard using:
 
-##  Usage
-**Run the Streamlit app:**
+1️⃣ Run the Streamlit App
+bash
+Copy code
 streamlit run streamlit_app/app.py
+2️⃣ Open the Dashboard
+Once the app starts, your browser will automatically open:
 
-
-**Your dashboard will open automatically at:**
+arduino
+Copy code
 http://localhost:8501
+If it doesn't open automatically, you can manually paste the URL into your browser.
+
+
 
 
 ---
