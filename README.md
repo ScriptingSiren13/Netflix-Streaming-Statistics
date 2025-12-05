@@ -156,16 +156,16 @@ http://localhost:8501
 ##  Sample Dashboard Screens
 
 ### 1️ Raw Data Preview
-![About Preview](results_ss/screenshot1.png)
+![About Preview](result_ss/screenshot1.png)
 
 ### 2 Insights Preview
-![Insights Preview](results_ss/screenshot2.png)
+![Insights Preview](result_ss/screenshot2.png)
 
 ### 3 Sankey Diagram Preview
-![Sankey Diagram](results__ss/screenshot3.png)
+![Sankey Diagram](result__ss/screenshot3.png)
 
 ### 4️⃣ Heatmap Example
-![Choropleth world map](results_ss/screenshot4.png)
+![Choropleth world map](result_ss/screenshot4.png)
 
 
 ---
