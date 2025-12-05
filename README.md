@@ -120,4 +120,17 @@ http://localhost:8501
 
 ## Connect With Me
 <p align="center">Made with passion, data, and Netflix vibes by <b>Zarnain</b></p> <p align="center"> <a href="https://www.linkedin.com/in/zarnain-723a31325"> <img src="https://img.shields.io/badge/LinkedIn-Zarnain-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/ScriptingSiren13"> <img src="https://img.shields.io/badge/GitHub-ScriptingSiren13-black?style=for-the-badge&logo=github"/> </a> </p>
+
+##  Project Overview
+
+A fully interactive Streamlit dashboard designed to explore Netflix content using:
+
+- Dynamic visuals  
+- Clean tab-based navigation  
+- Netflix-themed UI  
+- Light/Dark mode switching  
+
+It answers key analytical questions about global Netflix trends and provides rich insights into genres, ratings, durations, countries, and more.
+
+---
  
